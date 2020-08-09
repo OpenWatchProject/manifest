@@ -87,6 +87,7 @@
   <project path="device/sample" name="device/sample" groups="pdk" remote="aosp" />
   <project path="device/ti/beagle_x15" name="device/ti/beagle-x15" groups="device,beagle_x15,pdk" remote="aosp" />
   <project path="device/ti/beagle_x15-kernel" name="device/ti/beagle-x15-kernel" groups="device,beagle_x15,pdk" clone-depth="1" remote="aosp" />
+  <project path="device/wiite/c7s" name="OpenWatchProject/android_device_wiite_c7s" remote="github" revision="android-10" />
   <project path="external/ARMComputeLibrary" name="platform/external/ARMComputeLibrary" groups="pdk" remote="aosp" />
   <project path="external/aac" name="platform/external/aac" groups="pdk" remote="aosp" />
   <project path="external/adeb" name="platform/external/adeb" groups="pdk" remote="aosp" />
